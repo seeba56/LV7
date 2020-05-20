@@ -1,0 +1,5 @@
+C:\Users\seba\source\repos\PrviZadatak\PrviZadatak\bin\Debug\PrviZadatak.exe.config
+C:\Users\seba\source\repos\PrviZadatak\PrviZadatak\bin\Debug\PrviZadatak.exe
+C:\Users\seba\source\repos\PrviZadatak\PrviZadatak\bin\Debug\PrviZadatak.pdb
+C:\Users\seba\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.exe
+C:\Users\seba\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.pdb

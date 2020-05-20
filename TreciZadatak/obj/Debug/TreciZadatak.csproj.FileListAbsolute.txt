@@ -1,0 +1,6 @@
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\bin\Debug\TreciZadatak.exe.config
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\bin\Debug\TreciZadatak.exe
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\bin\Debug\TreciZadatak.pdb
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\obj\Debug\TreciZadatak.csprojAssemblyReference.cache
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\obj\Debug\TreciZadatak.exe
+C:\Users\seba\source\repos\PrviZadatak\TreciZadatak\obj\Debug\TreciZadatak.pdb
